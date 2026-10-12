@@ -25,7 +25,7 @@ class Program
         if (age >= 18)
         {
             Console.WriteLine("Tu es majeur");
-            isUnderage = true;
+            isUnderage = false;
         }
         else
         {
